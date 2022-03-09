@@ -1,3 +1,3 @@
-# Teste para a empresa RGB
-O teste consiste em reproduzir o layout em anexo, utilizando html + css + Slim Framework
+# Reprodução de Layout
+Reproduzir o layout utilizando html + css + Slim Framework
 
